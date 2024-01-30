@@ -17,7 +17,7 @@ pip install -r requirements.txt
 ## 文件结构
 
 ```
-|-- data	# 实验数据
+|-- data	# 实验数据，因为文件数量限制没有全部上传到GitHub
 |-- mfm.py	# 多模态融合模型代码
 |-- only_pic.py		# 消融实验-只输入图片
 |-- only_text.py	# 消融实验-只输入文本
